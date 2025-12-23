@@ -51,9 +51,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mahakjain0987&show_icons=true&theme=react&hide_border=true" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahakjain0987&layout=compact&theme=react&hide_border=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mahakjain0987&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahakjain0987&layout=compact&theme=react&hide_border=true&cache_seconds=1800" height="180px"/>
 </p>
+
+### 🔥 GitHub Streak
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahakjain0987&theme=tokyonight&cache_seconds=1800" />
+</p>
+
 
 ### 🔥 GitHub Streak
 <p align="center">
